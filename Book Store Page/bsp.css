@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-page-bg-container {
+    background-color: #1b1b1b;
+    text-align: left;
+    height: 105vh;
+    background-size: cover;
+    font-family: Bree serif;
+    padding: 20px;
+}
+
+.home-page-main-heading {
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.home-page-book-container {
+    background-color: #e6f6ff;
+    width: 85vw;
+    height: 35vh;
+    border-radius: 10px;
+}
+
+.home-page-book-container-image {
+    height: 35vh;
+    width: 33vw;
+}
+
+.home-page-book-container-main-heading {
+    color: #183b56;
+    font-size: 15px;
+}
+
+.home-page-book-container-sub-heading {
+    color: #06070d;
+    font-size: 13px;
+}
+
+.home-page-book-container-para {
+    color: #9aa5b1;
+    font-size: 10px;
+}
+
+.home-page-book-container-button {
+    width: 78px;
+    height: 30px;
+    font-size: 11px;
+    font-family: Roboto;
+    font-weight: lighter;
+}
+
+.home-page-book-container-text {
+    padding: 15px;
+}
+
+.home-page-sub-heading {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.home-page-sub-book-container-image {
+    height: 25vh;
+    width: 20vw;
+    margin-top: 10px;
+}
+
+.home-page-sub-book-container-main-heading {
+    color: #ffffff;
+    font-size: 15px;
+}
+
+.detail-page-bg-container {
+    background-color: #1b1b1b;
+    font-family: Bree serif;
+    text-align: center;
+    color: #ffffff;
+    height: 110vh;
+    background-size: cover;
+}
+
+.detail-page-image {
+    height: 55vh;
+    width: 50vw;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+
+.detail-page-heading {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+.detail-page-para1 {
+    color: #9aa5b1;
+    font-size: 10px;
+}
+
+.detail-page-para2 {
+    color: #e4e7eb;
+    font-size: 10px;
+    text-align: left;
+    margin-left: 35px;
+}
+
+.detail-page-back-button {
+    height: 30px;
+    width: 50px;
+    font-size: 11px;
+    font-family: Roboto;
+}
+
+.detail-page-buy-button {
+    height: 30px;
+    width: 70px;
+    font-size: 11px;
+    font-family: Roboto;
+    margin-left: 5px;
+}
