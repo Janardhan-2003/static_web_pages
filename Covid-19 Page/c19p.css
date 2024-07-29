@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-color: white;
+    font-family: roboto;
+    border-color: #0967d219;
+    border-width: 3px;
+    padding: 20px;
+}
+
+.first-section {
+    background-color: white;
+    padding: 30px;
+}
+
+.first-section-heading {
+    color: #323f4b;
+    font-size: 18px;
+
+}
+
+.first-section-button {
+    height: 25px;
+    width: 85px;
+    font-size: 10px;
+    border-radius: 6px;
+}
+
+.first-section-image {
+    height: 85px;
+    width: 105px;
+}
+
+.second-section {
+    background-color: #0967d219;
+    padding: 30px;
+    border-radius: 20px;
+
+}
+
+.second-section-heading {
+    color: #323f4b;
+    font-size: 16px;
+}
+
+.second-section-paragraph {
+    color: #707070;
+    font-size: 10px;
+    font-weight: 500;
+}
+
+.second-section-image {
+    height: 45px;
+    width: 45px;
+    margin: 10px;
+}
+
+.headings {
+    font-size: 16px;
+}
+
+.third-section {
+    padding: 20px;
+}
+
+.third-section-first-image {
+    background-color: #3ebd93;
+    border-radius: 10px;
+    margin-right: 20px;
+    text-align: center;
+    width: 70px;
+}
+
+.third-section-second-image {
+    background-color: #e668a7;
+    border-radius: 10px;
+    margin-right: 20px;
+    text-align: center;
+    width: 70px;
+}
+
+.third-section-third-image {
+    background-color: #a368fc;
+    border-radius: 10px;
+    text-align: center;
+    width: 70px;
+}
+
+.third-section-images {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.third-section-paragraphs {
+    color: white;
+    font-size: 10px;
+    padding: 5px;
+    font-weight: 500;
+}
+
+.fourth-section-button {
+    padding: 25px;
+    background-color: #e12d3919;
+    border-radius: 10px;
+
+}
