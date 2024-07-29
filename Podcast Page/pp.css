@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    font-family: Roboto;
+}
+
+.bg-container-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 200px;
+    background-size: cover;
+    padding: 20px;
+}
+
+.bg-container-main-heading {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 400;
+}
+
+.bg-container-sub-image {
+    height: 105px;
+    width: 135px;
+}
+
+.bg-container-sub-image-heading {
+    font-size: 15px;
+    color: #151765;
+    font-weight: 800;
+    margin-top: 10px;
+}
+
+.bg-container-sub-image-paragraph {
+    color: #5a7184;
+    font-size: 15px;
+}
+
+.bg-container-sub-section-align {
+    text-align: center;
+    margin: 15px;
+}
+
+.bg-container-sub-section {
+    margin: 15px;
+}
+
+.podcast-main-section {
+    background-color: #151765;
+    padding: 30px;
+    height: 160px;
+}
+
+.podcast-main-section-description {
+    padding: 8px;
+}
+
+.podcast-main-section-heading {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.podcast-main-section-paragraph {
+    color: #ffffff;
+    font-size: 11px;
+}
+
+.podcast-main-section-margin {
+    margin-bottom: 10px;
+}
+
+.podcast-sub-section {
+    background-color: #ffffff;
+    margin: 13px;
+}
+
+.podcast-sub-section-heading {
+    color: #151765;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.podcast-sub-section-paragraph {
+    color: #5a7184;
+    font-size: 11px;
+}
+
+.podcast-sub-section-button {
+    background-color: #151765;
+    border-radius: 20px;
+    color: #ffffff;
+    font-size: 10px;
+    width: 60px;
+    margin: 14px;
+    border-width: 0px;
+}
